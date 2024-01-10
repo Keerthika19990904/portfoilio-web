@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.75381771.css",
+    "main.js": "./static/js/main.1c45684f.js",
+    "static/js/787.82aac0c9.chunk.js": "./static/js/787.82aac0c9.chunk.js",
+    "static/media/DSC_5824.jpg": "./static/media/DSC_5824.27b9abc6e040e4b03088.jpg",
+    "static/media/keerthi-cv.pdf.pdf": "./static/media/keerthi-cv.pdf.72a8cf874828aeaad9d8.pdf",
+    "index.html": "./index.html",
+    "main.75381771.css.map": "./static/css/main.75381771.css.map",
+    "main.1c45684f.js.map": "./static/js/main.1c45684f.js.map",
+    "787.82aac0c9.chunk.js.map": "./static/js/787.82aac0c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75381771.css",
+    "static/js/main.1c45684f.js"
+  ]
+}
